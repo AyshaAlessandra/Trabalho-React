@@ -11,12 +11,12 @@ export const Inicio = () =>{
     <Topo/>
   <Container/>
     <Body>
-   <Cont2>
+   {/* <Cont2>
     <Cont21></Cont21>
     <Cont22></Cont22>
-   </Cont2>
+   </Cont2> */}
    <Cont1>
-<Cont11><h2>Lógica de programação</h2></Cont11>
+<Cont11><h2>Comece sua jornada na tecnologia</h2></Cont11>
 <Cont12>
     <Catao/>
     <Paginacao/>
