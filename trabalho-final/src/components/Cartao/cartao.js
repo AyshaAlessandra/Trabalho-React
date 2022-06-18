@@ -18,7 +18,7 @@ export const Catao = ()=>{
 </Card>
 
 <Card style={{ width: '18rem' , height : '47%' }}>
-  <Card.Img variant="top" src="https://cdn.discordapp.com/attachments/983115650119663617/987529332454981642/images.1.jpg" />
+  <Card.Img variant="top" src="https://cdn.discordapp.com/attachments/983115650119663617/987763914295087125/tinywow_resize_2951839.jpg" />
   <Card.Body>
     <Card.Title>Algoritmos</Card.Title>
     <Card.Text>
